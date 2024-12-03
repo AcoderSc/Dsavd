@@ -35,7 +35,7 @@
 * 前端：JavaScript/TypeScript + Vue3  + VueX + Element Plus。
 * 后端：Python3 + Flask  + Java8/17 + SpringBoot2/3 + Sa Token + Mybatis-plus。
 * 中间件：Redis + SqLite3 + Neo4j + Nginx。
-* 深度学习技术：强化学习、ChatGLM-6B、Lora微调技术...
+* 深度学习技术：强化学习、Yolo目标检测、ChatGLM-6B、Lora微调技术...
 
 
 ##  <img src="./assets/images/introduction.png" width="20"/>项目介绍
@@ -74,6 +74,7 @@
   * 通过四足机器人感知传感器采集数据，输入通用基础大模型，对四足机器人的关节点和云台进行控制。
   * 驱动四足机器人巡检和目标识别
   ![具身智能.png](assets%2Fimages%2F%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD.png)
+  * ![目标识别.gif](assets%2Fimages%2F%E7%9B%AE%E6%A0%87%E8%AF%86%E5%88%AB.gif)
   
 
 
@@ -107,6 +108,8 @@
 - [x] ~~智能站场巡检系统~~
 
 - [x] ~~四足机器人路径规划~~
+
+- [x] ~~油气仪表、阀门开关目标识别~~
 
 - [x] ~~基于具身智能的四足机器人巡检系统~~
 
